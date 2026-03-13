@@ -7,7 +7,7 @@
 * 优化游戏内中文字体显示。
 
 ##  食用方法
-*(A. 点击 [这里](https://raw.githubusercontent.com/mrrockist/angelicink_zh_cn/main/angeliclink.user.js) 安装脚本。)*
+*(A. 点击 [这里](https://raw.githubusercontent.com/mrrockist/angeliclink_zh_cn/main/angeliclink.user.js) 安装脚本。)*
 
 ##  隐私声明
 为了不断完善汉化库，本脚本只会在后台自动收集游戏中**未被翻译的日文文本**，并匿名上传至cloudflare worker。不会收集您的账号、密码或其他个人隐私数据。
