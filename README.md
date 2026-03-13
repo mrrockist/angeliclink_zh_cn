@@ -9,7 +9,7 @@
 ##  食用方法
 *(A. 点击 [这里](https://raw.githubusercontent.com/mrrockist/angeliclink_zh_cn/main/angeliclink.user.js) 安装脚本。)*
 
-*(B. 通过Greasy Fork [订阅](https://greasyfork.org/zh-CN/scripts/569494-%E3%82%A8%E3%83%B3%E3%82%B8%E3%82%A7%E3%83%AA%E3%83%83%E3%82%AF%E3%83%AA%E3%83%B3%E3%82%AF-translate-chs))*
+*(B. 通过Greasy Fork [订阅](https://greasyfork.org/zh-CN/scripts/569494-%E3%82%A8%E3%83%B3%E3%82%B8%E3%82%A7%E3%83%AA%E3%83%83%E3%82%AF%E3%83%AA%E3%83%B3%E3%82%AF-translate-chs) )*
 
 ##  隐私声明
 为了不断完善汉化库，本脚本只会在后台自动收集游戏中**未被翻译的日文文本**，并匿名上传至cloudflare worker。不会收集您的账号、密码或其他个人隐私数据。
